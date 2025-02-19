@@ -72,9 +72,9 @@ ChatGPT를 활용한 학습 및 튜토리얼 작성 방법을 단계별로 안�
 ### 제작할 문서 리스트 
 
 * ChatGPT로 학습하는 자바 스프링
-* ChatGPT로 학습하는 Node.js
-* ChatGPT로 학습하는 파이썬 웹 프로그래밍
-* ChatGPT로 공부하는 자동화시스템
+* [ChatGPT로 학습하는 Node.js](https://github.com/haedalprogramming/nodeLearningWithAI)
+* [ChatGPT로 학습하는 파이썬 웹 프로그래밍](https://github.com/haedalprogramming/flaskLearningWithAi)
+* [ChatGPT로 공부하는 자동화시스템](https://github.com/haedalprogramming/automationLearningWithAI)
 
 ### 제작할 문서 리스트
 
